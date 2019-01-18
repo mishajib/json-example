@@ -1,0 +1,26 @@
+[
+  {
+    "name": "MD. Mazharul Islam (SHAJIB)",
+    "species" : "Man",
+    "pLanguages": {
+      "likes": ["PHP", "JAVA"],
+      "dislikes": ["Ruby", "ASP"]
+    }
+  },
+  {
+    "name": "MI SHAJIB",
+    "species" : "Man",
+    "pLanguages": {
+      "likes": ["PYTHON", "JAVASCRIPT"],
+      "dislikes": ["C#"]
+    }
+  },
+  {
+    "name": "MD. Arnold Khan",
+    "species" : "MAN",
+    "pLanguages": {
+      "likes": ["PYTHON", "JAVA"],
+      "dislikes": ["C", "C++"]
+    }
+  }
+]
