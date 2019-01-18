@@ -18,7 +18,7 @@
   {
     "name": "MD. Arnold Khan",
     "species" : "MAN",
-    "pLanguages": {
+    "foods": {
       "likes": ["PYTHON", "JAVA"],
       "dislikes": ["C", "C++"]
     }
